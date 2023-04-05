@@ -10,13 +10,13 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Phero Na Najariya", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Wakh Ho Jana", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Phero Na", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Wakh Ho", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Kho Gaye", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Kabhi Kabhi Aditi", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Kabhi Kabhi", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Tareefan", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Piya Ghar Aavenge", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Tere Pyaar Mein", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Piya Ghar", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Tere Pyaar", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "Bairiya", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
     {songName: "Kahani Suno", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
     {songName: "Maan Meri Jaan", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
