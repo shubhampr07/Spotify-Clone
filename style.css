@@ -50,7 +50,7 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('bg.jpg');
+   background-image: url('bg3.jpg');
    background-repeat: no-repeat;
    background-size: auto;
 }
@@ -125,3 +125,22 @@ nav ul li{
       background-color: red;
     }
   }
+
+  @media (max-width:768px){
+
+    html{
+        font-size: 50%;
+    }
+    .name{
+        font-size: small;
+        margin-left: -40px;
+    }
+  }
+
+  @media (max-width:450px){
+
+    html{
+        font-size: 50%;
+    }
+
+}
